@@ -102,3 +102,9 @@ Teacher
 Tutor  
 📞 060 726 0250  
 📧 enoughsandile02@gmail.com  
+
+---
+
+## Mock Interview
+
+Click here to watch my interview(https://github.com/MpumeleloS/my-cv/blob/main/Interview.mp4)
