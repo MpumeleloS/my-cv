@@ -17,11 +17,11 @@ Motivated ICT student pursuing a Diploma in Applications Development, seeking ha
 
 **Cape Peninsula University of Technology (CPUT)**  
 Diploma: ICT Applications Development  
-📅 2023 – Present  
+2023 – Present  
 
 **Estcourt Senior Secondary School**  
 National Senior Certificate  
-📅 2018 – 2022  
+2018 – 2022  
 
 Subjects:  
 English (FAL), IsiZulu (HL), Geography, Life Sciences, Physical Sciences, Mathematics  
