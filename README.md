@@ -56,7 +56,7 @@ English (FAL), IsiZulu (HL), Geography, Life Sciences, Physical Sciences, Mathem
 
 ---
 
-## Experience
+## Projects
 
 ### Web Development Projects
 - Basic HTML Website (structure, hyperlinks, lists, images)  
